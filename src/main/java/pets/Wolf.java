@@ -10,3 +10,4 @@ public class Wolf extends Pet {
         System.out.println(getName() + " says Howl!");
     }
 }
+

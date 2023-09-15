@@ -12,7 +12,6 @@ public class Pet {
     }
 
     public void speak() {
-        // Default speak method for generic pets
         System.out.println(name + " makes a sound.");
     }
 }

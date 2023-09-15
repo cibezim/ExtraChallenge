@@ -9,7 +9,7 @@ public class Main {
 
         System.out.print("How many pets do you have? ");
         int numPets = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline character
+        scanner.nextLine();
 
         ArrayList<Pet> pets = new ArrayList<>();
 
